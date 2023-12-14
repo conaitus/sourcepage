@@ -1,6 +1,6 @@
 @echo off
-color a
-title HACK THE PLANET
+color 84
+title HACK 356.234.221.810//8.8.4.4
 echo Scan the network? Y/N
 PAUSE >nul
 arp -a
